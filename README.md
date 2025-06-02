@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Htet Aung Khant</h1>
 <h3 align="center">Senior Fullstack Developer</h3>
 
-- 📫 How to reach me **hakhant21@gmail.com**
+- 📫 How to reach me **mail@hakhant.site**
 
 - ⚡ Fun fact **Happy Coding**
 
